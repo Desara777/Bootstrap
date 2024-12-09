@@ -16,3 +16,6 @@ body{
 header > img{
     height: 100dvh;
 }
+.bg-about{
+    background-color: rgb(114, 127, 114);
+}
